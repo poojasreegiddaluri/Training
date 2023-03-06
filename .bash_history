@@ -65,3 +65,11 @@ git branch -M main
 git push -u origin main
 ccbp start NJSCPHDLYL
 ccbp start NJSIVENKBO
+ccbp start NJSCPHDLYL
+git init
+git remote add origin https://github.com/poojasreegiddaluri/Trainingg.git
+git add -A
+git commit -m 'Import and Export an Array'
+git branch -M main
+git push -u origin main
+ccbp start NJSCPHDLYL
