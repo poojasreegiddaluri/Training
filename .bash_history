@@ -26,3 +26,34 @@ git config --global user.name 'pooja'
 
 git branch M -main
 git push -u origin main 
+$ sudo brew install git
+sudo brew install git
+brew install git
+install git
+install --help git
+git config --global user.name 'pooja'
+git config --global user.email 'poojasreegiddaluri01@gmail.com'
+git config --global color.ui auto
+git config -l
+ccbp start NJSCPHDLYL
+git init
+git remote and origin https://github.com/poojasreegiddaluri/Training.git
+git remote add origin https://github.com/poojasreegiddaluri/Training.git
+git add -A
+git commit -m 'Import and Export an Array'
+git branch -M main
+git push -u origin main
+echo "# Training" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/poojasreegiddaluri/Training.git
+git push -u origin main
+echo "# Training" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/poojasreegiddaluri/Training.git
+git push -u origin main
