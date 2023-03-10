@@ -1,6 +1,12 @@
 {
   "private": true,
   "dependencies": {
-    "types-registry": "^0.1.633"
+    "types-registry": "^0.1.634"
+  },
+  "devDependencies": {
+    "@types/circular-dependency-plugin": "^5.0.1",
+    "@types/node": "^16.6.2",
+    "@types/webpack": "^4.41.26",
+    "@types/yargs-parser": "^20.2.1"
   }
 }

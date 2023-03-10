@@ -73,3 +73,12 @@ git commit -m 'Import and Export an Array'
 git branch -M main
 git push -u origin main
 ccbp start NJSCPHDLYL
+node importArray.mjs
+ccbp submit NJSCPHDLYL
+node importArray.mjs
+ccbp submit NJSCPHDLYL
+node importArray.mjs
+ccbp submit NJSCPHDLYL
+ccbp start NJSCPANCPR
+ccbp submit NJSCPANCPR
+ccbp start NJSCPHDLYL
