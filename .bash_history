@@ -82,3 +82,7 @@ ccbp submit NJSCPHDLYL
 ccbp start NJSCPANCPR
 ccbp submit NJSCPANCPR
 ccbp start NJSCPHDLYL
+git init
+git remote add origin https://github.com/poojasreegiddaluri/Import-and-Expory-an-Array.git
+git add -A
+git commit -m 'Import and Export an Array'
